@@ -1,0 +1,30 @@
+body{
+    background-image:url('bitcoin.jpg');
+    background-size:cover;
+}
+h1{
+    color:rgb(50, 182, 182);
+    font-family:'Abril Fatface', cursive;
+    text-align:center;
+    font-size:54px;
+
+}
+
+table{
+    align-items:center;
+    border:2px teal;
+    background-color:gold;
+    font-family:'Bubblegum Sans', cursive;
+}
+table, th, td{
+    border:2px solid black;
+    border-collapse: collapse;
+}
+th, td{
+    padding:5px;
+    text-align:center;
+}
+
+button{
+    float:right;
+}
